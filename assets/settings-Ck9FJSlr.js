@@ -1,0 +1,1 @@
+import{_t as e}from"./map-core-CLjwxiQo.js";import{t}from"./Container-rvgHafOI.js";import{r as n,t as r}from"./index-CZI26mk4.js";var i=e(),a=()=>(0,i.jsx)(t,{p:0,children:(0,i.jsx)(r,{title:`Settings`,withBack:!0,children:(0,i.jsx)(n,{})})});export{a as component};

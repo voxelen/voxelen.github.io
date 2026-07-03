@@ -1,0 +1,1 @@
+import{t as e}from"./Container-BiK6vqJl.js";import{R as t,s as n}from"./index-DHM6cpYN.js";import{t as r}from"./layout-Bs2YpZ5V.js";var i=t(),a=()=>(0,i.jsx)(e,{p:0,children:(0,i.jsx)(r,{title:`Settings`,withBack:!0,children:(0,i.jsx)(n,{})})});export{a as component};

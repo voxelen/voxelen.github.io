@@ -1,1 +1,0 @@
-import{gt as e,t}from"./map-core-DIuTN2lz.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
